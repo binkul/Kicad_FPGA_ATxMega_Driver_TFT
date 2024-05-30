@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Sterownik-FPGA-i-SRM-dla-TFT-LCD-rescue)(type Legacy)(uri "${KIPRJMOD}/Sterownik FPGA i SRM dla TFT LCD-rescue.lib")(options "")(descr ""))
+)
